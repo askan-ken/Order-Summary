@@ -7,6 +7,7 @@
       hsl(225, 100%, 94%);
     background-repeat: repeat-x;
     padding-top: 200px;
+    margin:20px;
   }
 }
 @media (max-width: 1440px) {
